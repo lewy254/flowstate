@@ -497,8 +497,6 @@ html[data-theme="dark"] .doodle-accent { fill: #9a3412; }
 .icon-goyolo  { background: #1c1147; overflow: hidden; }
 .icon-goyolo img { width: 100%; height: 100%; display: block; }
 .icon-tether  { background: var(--icon-3); }
-.icon-pane    { background: #dfe6ee; overflow: hidden; }
-.icon-pane img { width: 100%; height: 100%; display: block; transform: scale(1.22); }
 
 .app-name-row {
   display: flex;
